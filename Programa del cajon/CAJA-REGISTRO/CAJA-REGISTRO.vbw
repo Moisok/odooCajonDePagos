@@ -1,0 +1,16 @@
+conexionbbdd = 0, 0, 0, 0, C
+funcion_log = 0, 0, 0, 0, C
+funcion_log_pagos = 78, 78, 1219, 570, 
+funcion_comprueba_limites = 0, 0, 0, 0, C
+funcion_log_cajonmonedas = 130, 130, 1271, 622, 
+funcion_log_stacker = 52, 52, 1193, 544, 
+form_principal = 104, 104, 1245, 596, Z, 26, 26, 1167, 518, C
+funcion_cargarbotonera = 156, 156, 1297, 648, 
+variables = 234, 234, 1375, 726, 
+funcion_registrartxt = 26, 26, 1167, 518, 
+funcion_asignarcom = 130, 130, 1271, 622, 
+conexionbbdd_postgres = 0, 0, 0, 0, C
+funcion_leer = 0, 0, 1141, 492, 
+funcion_limpiar = 234, 234, 1375, 726, 
+funcionPagar = 156, 156, 1297, 648, 
+funcion_pagar = 0, 0, 1141, 492, 

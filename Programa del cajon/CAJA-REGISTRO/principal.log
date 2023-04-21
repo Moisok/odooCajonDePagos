@@ -1,0 +1,5 @@
+Línea 99: la clase MSCommLib.MSComm del control PCom no era una clase de control cargada.
+Línea 102: el nombre de la propiedad _ExtentX de PCom no es válido.
+Línea 103: el nombre de la propiedad _ExtentY de PCom no es válido.
+Línea 104: el nombre de la propiedad _Version de PCom no es válido.
+Línea 105: el nombre de la propiedad DTREnable de PCom no es válido.

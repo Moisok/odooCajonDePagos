@@ -1,0 +1,68 @@
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Resetear todo | DATOH:0 | Dato1 0 | Operacion:  0 | Direccion 0
+Operacion (texto): Operacion: Habilitar el billetero | DATOH:0 | Dato1 0 | Operacion:  28 | Direccion 0
+Operacion (texto): Operacion: Habilitar el billetero | DATOH:0 | Dato1 0 | Operacion:  29 | Direccion 0
+Operacion (texto): Operacion: Habilitar sistema | DATOH:0 | Dato1 0 | Operacion:  30 | Direccion 0
+Operacion (texto): Operacion: Deshabilitar el billetero | DATOH:0 | Dato1 0 | Operacion:  31 | Direccion 0
+Operacion (texto): Operacion: Hacer caja | DATOH:0 | Dato1 0 | Operacion:  44 | Direccion 0
+Operacion (texto): Operacion: Habilitar 5 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 1
+Operacion (texto): Operacion: Deshabilitar 5 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 2
+Operacion (texto): Operacion: Habilitar 10 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 3
+Operacion (texto): Operacion: Deshabilitar 10 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 4
+Operacion (texto): Operacion: Habilitar 20 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 5
+Operacion (texto): Operacion: Deshabilitar 20 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 6
+Operacion (texto): Operacion: Habilitar 50 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 7
+Operacion (texto): Operacion: Deshabilitar 50 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 8
+Operacion (texto): Operacion: Habilitar 100 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 9
+Operacion (texto): Operacion: Deshabilitar 100 de entrada | DATOH:0 | Dato1 0 | Operacion:  20 | Direccion 10
+Operacion (texto): Operacion: Habilitar 5 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 1
+Operacion (texto): Operacion: Deshabilitar 5 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 2
+Operacion (texto): Operacion: Habilitar 10 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 3
+Operacion (texto): Operacion: Deshabilitar 10 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 4
+Operacion (texto): Operacion: Habilitar 20 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 5
+Operacion (texto): Operacion: Deshabilitar 20 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 6
+Operacion (texto): Operacion: Habilitar 50 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 7
+Operacion (texto): Operacion: Deshabilitar 50 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 8
+Operacion (texto): Operacion: Habilitar 100 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 9
+Operacion (texto): Operacion: Deshabilitar 100 para pagos | DATOH:0 | Dato1 0 | Operacion:  21 | Direccion 10
+Operacion (texto): Operacion: Habilitar 5 cent para entrada  | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 3
+Operacion (texto): Operacion: Deshabilitar 5 cent para entrada  | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 4
+Operacion (texto): Operacion: Habilitar 10 cent de entrada  | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 5
+Operacion (texto): Operacion: Deshabilitar 10 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 6
+Operacion (texto): Operacion: Habilitar 20 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 7
+Operacion (texto): Operacion: Deshabilitar 20 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 8
+Operacion (texto): Operacion: Habilitar 50 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 9
+Operacion (texto): Operacion: Deshabilitar 50 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 10
+Operacion (texto): Operacion: Habilitar 100 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 11
+Operacion (texto): Operacion: Deshabilitar 100 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 12
+Operacion (texto): Operacion: Habilitar 200 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 13
+Operacion (texto): Operacion: Deshabilitar 200 cent de entrada | DATOH:0 | Dato1 0 | Operacion:  22 | Direccion 14
+Operacion (texto): Operacion: Habilitar 5 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 3
+Operacion (texto): Operacion: Deshabilitar 5 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 4
+Operacion (texto): Operacion: Habilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 5
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Habilitar 20 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 7
+Operacion (texto): Operacion: Deshabilitar 20 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 8
+Operacion (texto): Operacion: Habilitar 50 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 9
+Operacion (texto): Operacion: Deshabilitar 50 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 10
+Operacion (texto): Operacion: Habilitar 100 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 11
+Operacion (texto): Operacion: Deshabilitar 100 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 12
+Operacion (texto): Operacion: Habilitar 200 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 13
+Operacion (texto): Operacion: Deshabilitar 200 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 14
+Operacion (texto): Operacion: Cantidad de billetes | DATOH:0 | Dato1 0 | Operacion:  33 | Direccion 0
+Operacion (texto): Operacion: Cantidad monedas | DATOH:0 | Dato1 0 | Operacion:  34 | Direccion 0
+Operacion (texto): Operacion: Cargar billetes | DATOH:0 | Dato1 0 | Operacion:  37 | Direccion 0
+Operacion (texto): Operacion: Cargar monedas | DATOH:0 | Dato1 0 | Operacion:  38 | Direccion 0
+Operacion (texto): Operacion: Vaciado de HOPPER | DATOH:0 | Dato1 0 | Operacion:  42 | Direccion 0
+Operacion (texto): Operacion: Vaciado de PAYOUT | DATOH:0 | Dato1 0 | Operacion:  43 | Direccion 0
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
+Operacion (texto): Operacion: Deshabilitar 10 cent de pago | DATOH:0 | Dato1 0 | Operacion:  23 | Direccion 6
